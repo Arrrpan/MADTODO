@@ -4,12 +4,14 @@ To-Do app
 1. Registration
 <img src="register.png" width="300" height="400">
 
-
+--Login Validation
+<img src="register_val.jpg" width="300" height="400">
 
 2. Login
 <img src="sign_in.png" width="300" height="400">
 
-
+--Login Validation
+<img src="login_val.jpg" width="300" height="400">
 
 3. Logged in..You can add task by clicking the bottom on the plus sign
 <img src="add_task.png" width="300" height="400">
