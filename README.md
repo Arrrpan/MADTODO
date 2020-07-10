@@ -11,7 +11,7 @@ Registration Validation
 <img src="sign_in.png" width="300" height="400">
 
 Login Validation
-<img src="login_val.png" width="300" height="400">
+<img src="login_val.jpg" width="300" height="400">
 
 3. Logged in..You can add task by clicking the bottom on the plus sign
 <img src="add_task.png" width="300" height="400">
@@ -20,7 +20,7 @@ Login Validation
 <img src="add_update_task.png" width="300" height="400">
 
 5. You can also update the task
-<img src="add_update_task.png" width="300" height="400">
+<img src="add_update_task.jpg" width="300" height="400">
 
 6. Task adding 
 <img src="task_added.png" width="300" height="400">
