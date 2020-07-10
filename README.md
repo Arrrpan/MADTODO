@@ -13,14 +13,14 @@ To-Do app
 --Login Validation
 <img src="login_val.jpg" width="300" height="400">
 
-3. Logged in..You can add task by clicking the bottom on the plus sign
+3. Logged in..You can add task by clicking the plus sign button
 <img src="add_task.png" width="300" height="400">
 
 4. You can add task select priority and dates.
 <img src="add_update_task.png" width="300" height="400">
 
 5. You can also update the task
-<img src="add_update_task.jpg" width="300" height="400">
+<img src="add_update_task.png" width="300" height="400">
 
 6. Task adding 
 <img src="task_added.png" width="300" height="400">
